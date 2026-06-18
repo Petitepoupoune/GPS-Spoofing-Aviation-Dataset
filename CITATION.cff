@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "GPS Spoofing Synthetic Dataset for Commercial Aviation"
+authors:
+  - family-names: Sutre
+    given-names: Nina
+    affiliation: Polytechnique Montréal
+    email: nina.sutre@etud.polymtl.ca
+  - family-names: Zrelli
+    given-names: Rim
+    affiliation: Polytechnique Montréal
+  - family-names: Gohring de Magalhaes
+    given-names: Felipe
+    affiliation: Polytechnique Montréal
+  - family-names: Nicolescu
+    given-names: Gabriela
+    affiliation: Polytechnique Montréal
+repository-code: "https://github.com/Petitepoupoune/GPS-Spoofing-Dataset"
+abstract: >
+  A labelled synthetic dataset of commercial aviation flight trajectories
+  enriched with GPS spoofing scenarios covering three attack types
+  (position channel LL, timing channel ZL, Doppler velocity channel GA),
+  three severity levels, and three flight phases, across five aircraft types.
+  Expert-validated with inter-rater agreement κ = 0.81.
+keywords:
+  - GPS spoofing
+  - GNSS cybersecurity
+  - commercial aviation
+  - synthetic dataset
+  - avionics cybersecurity
+license: CC-BY-4.0
+date-released: "2025-06-01"
