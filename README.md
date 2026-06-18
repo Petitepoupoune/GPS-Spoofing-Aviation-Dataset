@@ -8,7 +8,7 @@ This repository contains a labelled synthetic dataset of commercial aviation fli
 
 > **Citation:** If you use this dataset in your research, please cite:
 > ```
-> Sutre, N., Zrelli, R., Gohring de Magalhaes, F., & Nicolescu, G. (2025).
+> Sutre, N., Zrelli, R., Gohring de Magalhaes, F., & Nicolescu, G. (2026).
 > LLM-Guided Synthetic Data Generation for GPS Spoofing Detection in Commercial Aviation.
 > Polytechnique Montréal.
 > ```
